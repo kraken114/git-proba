@@ -1,0 +1,2 @@
+# git-proba
+Изучаем git
